@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="addNewButton">Add new</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="okButton">OK</string>
+    <string name="hintText">Write your text here</string>
+    <string name="buttonSave">Save</string>
+</resources>
